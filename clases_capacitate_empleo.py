@@ -10,7 +10,7 @@ print("esto es una prueba de escritura en Python")
 
 
 # ------------------------------------------------------------------------------
-# Listas:
+# Listas para python:
 # ------------------------------------------------------------------------------
 # variable = [elemento_0, elemento_1, elemento_2, elemento_n ]
 # donde elemento puede ser "texto", numero, variable u otra [lista]
